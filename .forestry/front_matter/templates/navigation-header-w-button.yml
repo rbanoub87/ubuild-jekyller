@@ -20,6 +20,9 @@ fields:
   - type: text
     name: link_text
     label: Link text
+  - name: dsfsdf
+    type: boolean
+    label: dsfsdf
   config:
     labelField: link_text
 - type: field_group
